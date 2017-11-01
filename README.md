@@ -6,3 +6,6 @@ Dynamic Time Warping (DTW) is a well-known technique used to determine alignment
 
 
 read more on: https://brage.bibsys.no/xmlui/handle/11250/299598
+
+DTWPy is now in Python Package Index PyPI:
+https://pypi.python.org/pypi/DTWpy
